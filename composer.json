@@ -1,7 +1,7 @@
 {
     "name": "swimmer-zone/magento2-pagebuilder-accordion",
     "description": "PageBuilder Accordion module",
-    "version": "100.0.0-alpha",
+    "version": "1.0.0",
     "require": {
         "magento/framework": "102.0.*",
         "magento/module-page-builder": "100.0.*",
