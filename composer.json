@@ -1,5 +1,5 @@
 {
-    "name": "weprovide/module-pagebuilder-accordion",
+    "name": "swimmer-zone/magento2-pagebuilder-accordion",
     "description": "PageBuilder Accordion module",
     "version": "100.0.0-alpha",
     "require": {
