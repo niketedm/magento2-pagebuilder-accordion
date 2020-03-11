@@ -1,4 +1,4 @@
-Accordion module for Page Builder that demonstrates extension points.
+Accordion module for Page Builder.
 
 ![Page Builder Accordion](accordion.png)
 
